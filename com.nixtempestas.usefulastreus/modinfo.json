@@ -1,0 +1,14 @@
+{
+    "enabled" : true,
+    "context" : "server",
+    "identifier" : "com.nixtempestas.usefulastreus",
+    "display_name" : "Astraeus Buff",
+    "description" : "Make the Astraeus not suck",
+    "date": "2015/01/09",
+    "category": [
+      "balance"
+    ],
+    "author" : "nixtempestas",
+    "version" : "1.0",
+    "signature" : "(not yet implemented)"
+}
